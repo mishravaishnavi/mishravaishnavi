@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishravaishnavi
-- 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning Python and Web development
-- 💞️ I’m looking to collaborate on Python codes.
+- 👀 I’m interested in Management and business.
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on HTML codes.
 - 📫 How to reach me 
 
 <!---
