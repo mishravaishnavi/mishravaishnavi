@@ -2,7 +2,7 @@
 - 👀 I’m interested in Management and business.
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on HTML codes.
-- 📫 How to reach me 
+
 
 <!---
 mishravaishnavi/mishravaishnavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
