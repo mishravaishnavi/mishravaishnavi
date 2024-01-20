@@ -8,7 +8,7 @@ I'm a passionate student with a love for Data and Coding. Welcome to my GitHub p
 - 🌱 I'm always learning and exploring new technologies.
 - 👀 Currently pursuing Computer Science and Engineering.
 - 🌱 Excited to learn something new always. 
-- 💞️ Love to play with Data and Analyzing the data for future predictions.
+- 💞️ Love to criticise or judge hence chosen testing field.
 - 🐦 Also had interest in web development and contributed as a Frontend developer in some projects. 
 - 🚀 My mission is to become a capable coder with knowledge of multiple programming languages.
 
@@ -20,15 +20,10 @@ I'm a passionate student with a love for Data and Coding. Welcome to my GitHub p
 - 🔧 C
 - 🔧 C++
 - 🔧 Java
-- 🔧 Python
-- 🔧 Numpy
-- 🔧 Pandas
-- 🔧 Matplotlib
-- 🔧 Scipy
-- 🔧 Seaborn
-- 🔧 Scikit
-- 🔧 Advanced MS Excel
-- 🔧 Tableau
+- 🔧 Spring Framework
+- 🔧 Testing
+- 🔧 JUnit
+- 🔧 PostMan
 - 🔧 SQL
 - 🔧 Github
 - 🔧 Linux
