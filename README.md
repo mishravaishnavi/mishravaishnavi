@@ -34,7 +34,7 @@ I'm a passionate student with a love for Data and Coding. Welcome to my GitHub p
 Let's connect and collaborate:
 
 - www.linkedin.com/in/vaishnavi-mishra-0669b9212
-- https://mishravaishnavi.github.io/mishv1508.github.io/
+- https://mishravaishnavi.github.io/
 - mishrariya.1508@gmail.com 
 
 Feel free to explore my repositories and reach out if you have any questions or want to chat. I'm always open to new opportunities and collaborations.
