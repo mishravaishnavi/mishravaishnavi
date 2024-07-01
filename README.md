@@ -1,12 +1,12 @@
 # Hi there, I'm Vaishnavi Mishra! 👋
 
-I'm a passionate student with a love for Data and Coding. Welcome to my GitHub profile.
+I'm a passionate student with a good knowledge in Software Testing Field, both in Manual and Automation Technique.
 
 ## About Me
 
 
 - 🌱 I'm always learning and exploring new technologies.
-- 👀 Currently pursuing Computer Science and Engineering.
+- 👀 Completed Bachelor's in Computer Science and Engineering.
 - 🌱 Excited to learn something new always. 
 - 💞️ Love to criticise or judge hence chosen testing field.
 - 🐦 Also had interest in web development and contributed as a Frontend developer in some projects. 
@@ -27,6 +27,9 @@ I'm a passionate student with a love for Data and Coding. Welcome to my GitHub p
 - 🔧 SQL
 - 🔧 Github
 - 🔧 Linux
+- 🔧 Selenium
+- 🔧 Bash Scripting
+- 🔧 Python
 
 
 ## Connect with Me
